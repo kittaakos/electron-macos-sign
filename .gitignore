@@ -102,3 +102,13 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Generated Theia things
+*webpack.config.js
+src-gen
+lib
+.browser_modules
+plugins
+
+# macOS
+.DS_Store
