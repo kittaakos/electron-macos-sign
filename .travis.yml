@@ -4,8 +4,6 @@ env:
   - YARN_GPG=no
 
 os:
-  # - linux
-  # - windows
   - osx
 
 node_js:
