@@ -1,0 +1,1 @@
+# electron-macos-sign
